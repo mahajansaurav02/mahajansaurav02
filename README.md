@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/free-vector/back-end-developer-typographic-header-software-development-process-website-interface-design-improvement-programming-coding-it-profession-isolated-flat-vector-illustration_613284-521.jpg?w=2000)]
+![MasterHead](https://dvokhk8ohqhd8.cloudfront.net/assets/engineering_types/back_end/hero_image-c8c430c4962d2f9923be8cff6c7bfbdbf0a029a223ef3221db0dd48c69ead9e1.svg)
 <h1 align="center">Hi 👋, I'm Saurav Mahajan</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
