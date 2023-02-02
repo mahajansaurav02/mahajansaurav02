@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sauravsunilmah1" target="blank"><img src="https://img.shields.io/twitter/follow/sauravsunilmah1?logo=twitter&style=for-the-badge" alt="sauravsunilmah1" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript, Nodejs, GitBash**
+- 🌱 I’m currently learning **JavaScript, Nodejs, React.js,MySQL**
 
 - 💬 Ask me about **JavaScript,HTML,CSS,Mongo-DB,Nodejs**
 
